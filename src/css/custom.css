@@ -1,0 +1,72 @@
+body{
+    background-color: #333;
+    color: white;
+    width: 1200px;
+}
+
+.logo{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 380px;
+    top: 50px;
+}
+
+.small_logo{
+    width: 100px;
+    height: 60px;
+    position: absolute;
+    left: 150px;
+    top: 30px;
+}
+
+#search_logo{
+    height: 350px;
+}
+
+#search_body{
+    height: 100px;
+    width: 700px;
+    left: 260px;
+    top: 40px;
+    position: relative;
+}
+
+#search_footer{
+    top:30px;
+    text-align: center;
+    position: relative;
+}
+
+#perihal{
+    background-image:url(../image/sibylbg.jpg);
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    font-size: 200%;
+}
+
+.result_title{
+    font-size: 150%;
+}
+
+input{
+    color: black;
+}
+
+.searchbox_bg{
+    width:100%;
+    height:100px;
+    background-color:#4C4C33;
+}
+
+.main_contain{
+    top: 20px;
+    left: 150px;
+    width: 900px;
+    position: relative;
+}
+
+.small_info{
+    color: grey;
+}
